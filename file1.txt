@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 string update 2026
 string new 2027
-=======
-string update
-string new 2026
->>>>>>> 24415ac5bdb312de8acb916d1079fc31ace3965f
 Adding change
 "new branch line" 
